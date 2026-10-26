@@ -29,12 +29,12 @@
 ╚══════════════════════════════════════════════════════════════════╝
 
 name         : "Raghav Goyal"
-role         : "Software Developer / Digital Engineer"
+role         : "Software Developer / Former Digital Engineer Intern"
 education    : "B.Tech Information Technology — VIT Vellore"
 cgpa         : "7.3"
 status       : "████████████████████ ONLINE"
 
-currently    : "Digital Engineer @ Virtusa"
+internship   : "Completed 3-month Digital Engineering internship @ Virtusa"
 project      : "AI/ML implementation for British Telecom"
 focus        : ["Software Engineering", "AI/ML", "Full Stack"]
 languages    : ["Java", "Python", "JavaScript", "SQL"]
@@ -66,7 +66,7 @@ raghav@dev:~$ echo $MISSION
 
 <div align="center">
 
-|   🎓 Education  | 💼 Current Role |    🧠 Primary Focus    |        🔬 Research       |
+|   🎓 Education  | 💼 Internship |    🧠 Primary Focus    |        🔬 Research       |
 | :-------------: | :-------------: | :--------------------: | :----------------------: |
 | **VIT Vellore** |   **Virtusa**   | **AI/ML + Full Stack** | **NEFT Fraud Detection** |
 
@@ -224,25 +224,25 @@ raghav@dev:~$ echo $MISSION
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/DIGITAL_ENGINEER-VIRTUSA-c778dd?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/DIGITAL_ENGINEER_INTERN-VIRTUSA-c778dd?style=for-the-badge&labelColor=0d1117"/>
 
 <br/><br/>
 
 ### British Telecom — AI/ML
 
-`JUN 2026 — PRESENT`
+`JUN 2026 — AUG 2026 (3 MONTHS)`
 
 </div>
 
-**Role:** Digital Engineer
+**Role:** Digital Engineer Intern (Completed)
 
 **Work:**
 
-* Contributing to an AI/ML implementation project for **British Telecom**.
-* Supporting integration of AI capabilities into an enterprise application.
-* Working with developers to integrate AI functionality with existing application components.
-* Supporting AI model testing, validation and troubleshooting.
-* Working toward improving model reliability and output accuracy.
+* Contributed to an AI/ML implementation project for **British Telecom**.
+* Supported integration of AI capabilities into an enterprise application.
+* Collaborated with developers to integrate AI functionality with existing application components.
+* Supported AI model testing, validation, and troubleshooting.
+* Assisted with validation efforts focused on model reliability and output accuracy.
 
 **Tech Stack**
 
@@ -513,11 +513,11 @@ TYPE         : Published Patent
 
 ---
 
-## `> current_operations`
+## `> engineering_focus`
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/%F0%9F%94%B4-ACTIVE-c778dd?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/%E2%9C%85-INTERNSHIP_COMPLETED-c778dd?style=flat-square&labelColor=0d1117"/>
 
 <br/><br/>
 
