@@ -31,7 +31,7 @@
 name         : "Raghav Goyal"
 role         : "Software Developer / Former Digital Engineer Intern"
 education    : "B.Tech Information Technology — VIT Vellore"
-cgpa         : "7.3"
+cgpa         : "7.41"
 status       : "████████████████████ ONLINE"
 
 internship   : "Completed 3-month Digital Engineering internship @ Virtusa"
