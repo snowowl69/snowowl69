@@ -39,7 +39,7 @@ project      : "AI/ML implementation for British Telecom"
 focus        : ["Software Engineering", "AI/ML", "Full Stack"]
 languages    : ["Java", "Python", "JavaScript", "SQL"]
 
-backend      : ["Node.js", "Express.js", "Flask", "REST APIs"]
+backend      : ["Express.js", "Flask", "REST APIs"]
 database     : ["MongoDB", "PostgreSQL"]
 research     : "NEFT Fraud Detection using LSTM"
 patent       : "Published Patent — NEFT Fraud Detection System"
